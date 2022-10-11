@@ -15,7 +15,6 @@ main{
 }
 
 .step{
-  text-align: center;
   display:flex;
   justify-content:center;
 }
@@ -82,7 +81,8 @@ footer{
   }
 
   .step{
-  text-align: center;
+  display: block;
+  margin:0 auto;
   }
 
   .step-item{
